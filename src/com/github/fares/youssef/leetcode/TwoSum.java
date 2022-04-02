@@ -32,6 +32,6 @@ public class TwoSum {
 		int[] arr = { -1, -2, -3, -4, -5 };
 		int target = -8;
 
-		System.out.println(twoSum(arr, target));
+		System.out.println(new TwoSum().twoSum(arr, target));
 	}
 }
